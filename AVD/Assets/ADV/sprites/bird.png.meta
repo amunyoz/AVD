@@ -177,7 +177,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 217
-        y: 363
+        y: 364
         width: 144
         height: 140
       alignment: 9
@@ -197,7 +197,7 @@ TextureImporter:
       name: bird_2
       rect:
         serializedVersion: 2
-        x: 397
+        x: 398
         y: 364
         width: 146
         height: 130
@@ -218,7 +218,7 @@ TextureImporter:
       name: bird_3
       rect:
         serializedVersion: 2
-        x: 555
+        x: 556
         y: 367
         width: 171
         height: 122
@@ -261,7 +261,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 34
-        y: 171
+        y: 172
         width: 146
         height: 118
       alignment: 9
@@ -282,7 +282,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 216
-        y: 167
+        y: 166
         width: 146
         height: 123
       alignment: 9
@@ -303,7 +303,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 400
-        y: 169
+        y: 170
         width: 144
         height: 119
       alignment: 9
@@ -386,7 +386,7 @@ TextureImporter:
       name: bird_11
       rect:
         serializedVersion: 2
-        x: 216
+        x: 217
         y: 7
         width: 144
         height: 104
@@ -429,7 +429,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 546
-        y: 23
+        y: 24
         width: 180
         height: 113
       alignment: 9

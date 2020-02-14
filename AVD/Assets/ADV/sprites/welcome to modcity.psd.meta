@@ -14,6 +14,9 @@ TextureImporter:
   - first:
       213: 3980813025146597118
     second: welcome to modcity_3
+  - first:
+      213: -2712719263599079941
+    second: welcome to modcity_4
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -168,7 +171,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 362
-        y: 170
+        y: 171
         width: 361
         height: 159
       alignment: 0
@@ -205,6 +208,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: welcome to modcity_4
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 90
+        width: 310
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd41ddc33c7a5ad0800000000000000
+      internalID: -2712719263599079941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -216,7 +240,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
   spritePackingTag: 
-  pSDRemoveMatte: 0
+  pSDRemoveMatte: 1
   pSDShowRemoveMatteOption: 1
   userData: 
   assetBundleName: 
