@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3841090000938733650}
   - component: {fileID: 3232517208743856577}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: item-feedback-1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4439207768930746278}
   - component: {fileID: 7318334546604352253}
   - component: {fileID: 4817320059588659729}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Good_ItemToPick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -213,3 +213,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a62a14c1ea29bd42b6d8b8748983b9b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Type: 1
