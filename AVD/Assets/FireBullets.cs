@@ -23,4 +23,8 @@ public class FireBullets : MonoBehaviour
     {
         Instantiate(Bullet, this.transform.position, this.transform.rotation);
     }
+    private void OnDisable()
+    {
+        StopAllCoroutines();
+    }
 }
