@@ -22,7 +22,7 @@ public class Bullet3D : MonoBehaviour
 
     private void OnTriggerEnter(Collider info)
     {
-        Debug.Log(info.gameObject.name);
+      //  Debug.Log(info.gameObject.name);
         if //(info.gameObject.layer == Masks)
             (layermask == (layermask | (1 << info.gameObject.layer)))
         {
