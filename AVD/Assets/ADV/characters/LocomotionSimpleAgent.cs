@@ -10,7 +10,7 @@ public class LocomotionSimpleAgent : MonoBehaviour
     NavMeshAgent agent;
     Vector2 smoothDeltaPosition = Vector2.zero;
     Vector2 velocity = Vector2.zero;
-
+    public TimelineControl TC;
     void Start()
     {
         anim = GetComponent<Animator>();
@@ -50,9 +50,11 @@ public class LocomotionSimpleAgent : MonoBehaviour
         // Debug.Log("disco trigger tag: "+ other.tag);
         if (other.CompareTag("Disco"))
         {
+
             velocity = Vector2.zero;
             anim.SetTrigger("dance");
             other.GetComponentInParent<Animator>().SetTrigger("action");// in this case the animator is in the parent
+            TC.Play();
         }
         else if (other.CompareTag("Flag"))
         {
